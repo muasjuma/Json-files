@@ -3,7 +3,7 @@
       "keys": [
         {
             "kid": "sim2",
-            "kty": "RSA",
+            "kty": "oct",
             "k": "cGFyYWdvblNlY3JldEtleQ==",
             "alg": "HS256"
         }
