@@ -4,7 +4,7 @@
         {
             "kid": "sim2",
             "kty": "oct",
-            "k": "paragonSecretKey",
+            "k": "cGFyYWdvblNlY3JldEtleQ==",
             "alg": "HS256"
         }
       ]
