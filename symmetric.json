@@ -3,7 +3,6 @@
       "keys": [
         {
             "kid": "sim2",
-            "k": "cGFyYWdvblNlY3JldEtleQ==",
             "alg": "HS256"
         }
       ]
