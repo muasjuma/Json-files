@@ -4,7 +4,7 @@
         {
             "kid": "sim2",
             "kty": "oct",
-            "k": "cGFyYWdvblNlY3JldEtleQ==",
+            "k": "cGFyYWdvblNlY3JldEtleQ",
             "alg": "HS256"
         }
       ]
